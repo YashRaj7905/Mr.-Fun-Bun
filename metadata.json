@@ -1,0 +1,7 @@
+{
+  "name": "Mr. FunBun Bakers",
+  "description": "A charming bakery and cake shop in Lucknow offering delicious donuts, waffles, and savory treats with a beautiful ambience.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
